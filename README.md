@@ -1,1 +1,3 @@
-# python-servergithub/workflows/prettier.yml
+# python-server
+
+path: .github/workflows/prettier.yml
